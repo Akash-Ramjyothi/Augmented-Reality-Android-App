@@ -1,5 +1,8 @@
 # Augmented Reality Android App
 
+## Description:
+Install the APK from the given link below and give Camera Access. Then project it to a 500 Rupees note.
+
 ## Source Code:
 https://drive.google.com/file/d/1Ru-mzmahX34_XBRhawvfls-q8SURS62Y/view?usp=sharing
 
