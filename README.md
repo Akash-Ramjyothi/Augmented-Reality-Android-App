@@ -19,6 +19,18 @@ https://www.youtube.com/watch?v=-naxi0WAqhk
 - Android.
 - C#.
 
+## Objects Projected:
+- Dassault Rafale Jet.
+- Leopard 2A7+ Tank.
+- AH-64 Apache.
+- Brahmos Cruise Missile.
+- Project 941 Akula Typhoon submarine.
+- US M247 7.62mm Sniper Rifle.
+- Siachen Glacier.
+- Nepal-Sikkim.
+- Coastal Landscape.
+- Grand Canyon.
+
 ## Developed By:
 - Akash Ramjyothi
 - E-Mail ID: akash.ramjyothi@gmail.com
