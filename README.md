@@ -7,10 +7,10 @@
 An Augmented Reality Application that uses Target Images to project a 3D model on the top of the surface.
 
 ## Source Code:
-https://drive.google.com/file/d/1Ru-mzmahX34_XBRhawvfls-q8SURS62Y/view?usp=sharing
+https://drive.google.com/drive/folders/1-Am5qZugfDhpvzOwjSa2Rar95Po4Bqez?usp=sharing
 
 ## Full Working Video:
-https://www.youtube.com/watch?v=-naxi0WAqhk&feature=youtu.be
+https://www.youtube.com/watch?v=-naxi0WAqhk
 
 ## Tech Stack Used:
 - Unity Hub.
