@@ -13,10 +13,11 @@ https://drive.google.com/drive/folders/1-Am5qZugfDhpvzOwjSa2Rar95Po4Bqez?usp=sha
 https://www.youtube.com/watch?v=-naxi0WAqhk
 
 ## Tech Stack Used:
+- Java.
+- Android.
 - Unity Hub.
 - Unity version 2019 LST.
 - Vuforia.
-- Android.
 - C#.
 
 ## Objects Projected:
