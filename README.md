@@ -4,7 +4,7 @@
 # DRDO (Defense Research and Development Organization) Augmented Reality Project
 
 ## Description:
-An Augmented Reality Application that uses Target Images to project a 3D model on the top of the surface.
+An Augmented Reality Application that uses Target Images to project a 3D model on the top of the surface. Also provides short descriptions and characteristics of the particular model. Currently programmed to display military vehicles, armaments and weapons on top of its respective blue-print. Developed the project as a part of my internship period at DRDO (Delhi).
 
 ## Source Code:
 https://drive.google.com/drive/folders/1-Am5qZugfDhpvzOwjSa2Rar95Po4Bqez?usp=sharing
